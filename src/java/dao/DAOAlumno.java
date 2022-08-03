@@ -11,7 +11,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author EliasSan
+ * @author Yonathan Uriel Pastrana Tepectzin y Kevin Ulises Garcia Camacho
  */
 public class DAOAlumno
 {

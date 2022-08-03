@@ -32,7 +32,7 @@ public class SAlumnos extends HttpServlet
        
        nuevo   = "/vistas/nuevo.jsp";
        editar  = "/vistas/editar.jsp";
-       mostrar = "/vistas/mostrarbob.jsp";
+       mostrar = "/vistas/mostrar.jsp";
        acceso  = "";
        
        accion=request.getParameter("accion");

@@ -1,0 +1,16 @@
+SMAP
+mostrar_jsp.java
+JSP
+*S JSP
+*F
++ 0 mostrar.jsp
+vistas/mostrar.jsp
+*L
+5,20:48
+25,7:69
+31,3:76
+34,10:79,3
+44:109
+45:110,3
+46,2:113
+*E
